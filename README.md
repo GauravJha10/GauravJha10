@@ -1,12 +1,20 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" alt="Header Banner" />
+  <img 
+    src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif"
+    width="100%"
+    alt="Header Banner"
+  />
 </p>
 
 <h1 align="center">I'm Gaurav Jha</h1>
 
 <h3 align="center">
-Either turning Data into decisions or rejecting lazy analysis
+<b>Either turning Data into decisions or rejecting lazy analysis.</b>
 </h3>
+
+<p align="center">
+Aspiring Data Analyst | SQL • Python • Power BI • Excel
+</p>
 
 ---
 
@@ -28,29 +36,38 @@ Either turning Data into decisions or rejecting lazy analysis
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,plotly,matplotlib" height="40"/>
+</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow" height="40"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-jha-060ba7382/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/GauravJha01/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/the_jha_sahab01)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravjha4921@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaurav-jha-060ba7382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/GauravJha01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/the_jha_sahab01">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:gauravjha4921@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -58,8 +75,6 @@ Either turning Data into decisions or rejecting lazy analysis
 
 ### 🟨 LeetCode
 - 🏅 **Top SQL 50**  
-  Ranked among top SQL problem solvers on LeetCode  
-  👉 https://leetcode.com/u/GauravJha01/
 
 ### 🟩 HackerRank
 - ⭐ **SQL – 5★ Badge**
@@ -70,5 +85,3 @@ Either turning Data into decisions or rejecting lazy analysis
 <p align="center">
 ✨ Always learning. Always improving. Open to opportunities. ✨
 </p>
-
-<!-- Proudly optimized for Data Analyst job roles -->
