@@ -4,9 +4,9 @@
 
 <h1 align="center">I'm Gaurav Jha</h1>
 
-<p align="center">
+<h3 align="center">
 Either turning Data into decisions or rejecting lazy analysis
-</p>
+</h3>
 
 ---
 
