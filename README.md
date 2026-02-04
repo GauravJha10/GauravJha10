@@ -1,28 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&text=Hi%20I'm%20Gaurav%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn&section=header" />
+  <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" alt="Header Banner" />
 </p>
 
 <h1 align="center">I'm Gaurav Jha</h1>
-<h2 align="center">Aspiring Data Analyst</h2>
 
 <p align="center">
-Turning raw data into meaningful insights using SQL, Python, Power BI & Excel.
+Either turning Data into decisions or rejecting lazy analysis
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🛠️ Currently building **job-ready Data Analyst projects** using Python, SQL, Power BI & Excel
-  
-- 🎯 Actively looking for **Data Analyst roles**
-  
-- 🤝 Open to collaborate on **data analytics projects, dashboards & SQL case studies**
-  
-- 📚 Strengthening **Advanced SQL, Power BI (DAX & data modeling), Python (Pandas, NumPy) & EDA**
-   
-- 💬 Ask me about **data cleaning, analysis workflows, SQL queries & Power BI reporting**
-  
+- 🛠️ Currently building **job-ready Data Analyst projects** using Python, SQL, Power BI & Excel  
+
+- 🎯 Actively looking for **Data Analyst roles**  
+
+- 🤝 Open to collaborate on **data analytics projects, dashboards & SQL case studies**  
+
+- 📚 Strengthening **Advanced SQL, Power BI (DAX & data modeling), Python (Pandas, NumPy) & EDA**  
+
+- 💬 Ask me about **data cleaning, analysis workflows, SQL queries & Power BI reporting**  
+
 - ⚡ Fun fact: I get suspicious when data looks *too perfect* 👀📊  
 
 ---
