@@ -6,11 +6,13 @@
   />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" alt="GauravJha10" />
+<h1 align="center">I'm Gaurav Jha</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" />
 </p>
 
-<h1 align="center">I'm Gaurav Jha</h1>
+---
 
 <h3 align="center">
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
