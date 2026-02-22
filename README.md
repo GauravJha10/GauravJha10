@@ -15,7 +15,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" alt="GauravJha10" />
 </p>
+
 # 💫 About Me:
+
 🛠️ Currently building job-ready Data Analyst projects using Python, SQL, Power BI & Excel
 
 🎯 Actively looking for Data Analyst roles
