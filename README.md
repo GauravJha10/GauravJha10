@@ -13,7 +13,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" alt="GauravJha10" />
+  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=ffd700&style=flat&base=1535" alt="GauravJha10" />
 </p>
 
 # 💫 About Me:
