@@ -5,9 +5,9 @@
     alt="Header Banner"
   />
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GauravJha10.GauravJha10&left_text=Profile%20Views&left_color=blue&right_color=blue&count=1535)
 
 <h1 align="center">I'm Gaurav Jha</h1>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=GauravJha10.GauravJha10&left_text=Profile%20Views&left_color=blue&right_color=blue&count=1535)
 
 <h3 align="center">
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
