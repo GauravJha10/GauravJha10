@@ -12,9 +12,7 @@
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=ffd700&style=flat&base=1535" alt="GauravJha10" />
-</p>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=GauravJha10.GauravJha10&left_text=Profile%20Views&left_color=ffd700&right_color=0e75b6&count=1535)
 
 # 💫 About Me:
 🛠️ Currently building job-ready Data Analyst projects using Python, SQL, Power BI & Excel
