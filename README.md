@@ -7,7 +7,9 @@
 </p>
 
 <h1 align="center">I'm Gaurav Jha</h1>
-<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" alt="GauravJha10" />
+</p>
 <h3 align="center">
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
 </h3>
