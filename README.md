@@ -5,6 +5,7 @@
     alt="Header Banner"
   />
 </p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GauravJha10.GauravJha10&left_text=Profile%20Views&left_color=blue&right_color=blue&count=1535)
 
 <h1 align="center">I'm Gaurav Jha</h1>
 
