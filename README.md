@@ -6,7 +6,9 @@
   />
 </p>
 
-<h1 align="center">I'm Gaurav Jha</h1><p align="left">
+<h1 align="center">I'm Gaurav Jha</h1>
+
+<p align="left" style="margin-top:-10px;">
   <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" />
 </p>
 
