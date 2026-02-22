@@ -7,8 +7,7 @@
 </p>
 
 <h1 align="center">I'm Gaurav Jha</h1>
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=GauravJha10.GauravJha10&left_text=Profile%20Views&left_color=blue&right_color=blue&count=1535)
-
+<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
 <h3 align="center">
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
 </h3>
