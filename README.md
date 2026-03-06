@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GauravJha10)
+![Visitor Count](https://komarev.com/ghpvc/?username=GauravJha10&base=2535)
 
 # 💫 About Me:  
 
