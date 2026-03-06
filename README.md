@@ -15,9 +15,9 @@
 <b>Aspiring Data Analyst : Either turning Data into Decisions or Rejecting Lazy Analysis.</b>
 </h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GauravJha10&label=Profile%20views&color=0e75b6&style=flat&base=1535" />
-</p>
+</p> -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GauravJha10&base=2535)
 
